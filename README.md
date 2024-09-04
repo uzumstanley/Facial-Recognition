@@ -1,2 +1,2 @@
-Project Title: Facial-Recognition
+ Project Title: Facial-Recognition
 Computer Vision
