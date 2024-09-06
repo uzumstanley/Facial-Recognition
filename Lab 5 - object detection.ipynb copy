@@ -8,7 +8,6 @@
    "source": [
     "#Implementing Faster R-CNN with PyTorch"
    ]
-
   },
   {
    "cell_type": "code",
